@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<template_modifications>
+	<modification type="public" template="PAGE_CONTAINER" modification_key="ext_sample_ID" description="" execution_order="9999" enabled="1" action="str_replace">
+		<find><![CDATA[]]></find>
+		<replace><![CDATA[]]></replace>
+	</modification>
+</template_modifications>

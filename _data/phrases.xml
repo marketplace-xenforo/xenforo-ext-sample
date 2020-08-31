@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<phrases>
+	<phrase title="option.extSampleOpt_01" version_id="1000070" version_string="1.0.0"><![CDATA[Text Box]]></phrase>
+	<phrase title="option_explain.extSampleOpt_01" version_id="1000070" version_string="1.0.0"><![CDATA[]]></phrase>
+	<phrase title="option.extSampleOpt_02" version_id="1000070" version_string="1.0.0"><![CDATA[Check Box]]></phrase>
+	<phrase title="option_explain.extSampleOpt_02" version_id="1000070" version_string="1.0.0"><![CDATA[]]></phrase>
+	<phrase title="option.extSampleOpt_03" version_id="1000070" version_string="1.0.0"><![CDATA[Radio Buttons]]></phrase>
+	<phrase title="option_explain.extSampleOpt_03" version_id="1000070" version_string="1.0.0"><![CDATA[]]></phrase>
+	<phrase title="option.extSampleOpt_04" version_id="1000070" version_string="1.0.0"><![CDATA[Select Menu]]></phrase>
+	<phrase title="option_explain.extSampleOpt_04" version_id="1000070" version_string="1.0.0"><![CDATA[]]></phrase>
+	<phrase title="option.extSampleOpt_05" version_id="1000070" version_string="1.0.0"><![CDATA[Spin Box]]></phrase>
+	<phrase title="option_explain.extSampleOpt_05" version_id="1000070" version_string="1.0.0"><![CDATA[]]></phrase>
+	<phrase title="option_group.extSample" version_id="1000070" version_string="1.0.0"><![CDATA[(EXT/XF) Sample]]></phrase>
+	<phrase title="option_group_description.extSample" version_id="1000070" version_string="1.0.0"><![CDATA[]]></phrase>
+</phrases>

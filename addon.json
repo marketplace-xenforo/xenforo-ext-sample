@@ -1,0 +1,26 @@
+{
+	"legacy_addon_id": "",
+	"title": "(EXT/XF) Sample",
+	"description": "",
+	"version_id": 1000070,
+	"version_string": "1.0.0",
+	"dev": "Extensions Development",
+	"dev_url": "https://exts.dev/",
+	"faq_url": "https://exts.dev/#xenforo",
+	"support_url": "https://exts.dev/#xenforo",
+	"extra_urls": {
+		"Source": "https://github.com/marketplace-xenforo/add-ons/sample",
+		"Issues": "https://github.com/marketplace-xenforo/add-ons/sample/issues"
+	},
+	"require": {
+		"XF": [
+			2010070,
+			"XenForo 2.1.0+"
+		],
+		"php": [
+			"7.3.0",
+			"PHP 7.3.0+"
+		]
+	},
+	"icon": ""
+}
